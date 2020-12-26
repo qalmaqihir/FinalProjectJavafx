@@ -15,10 +15,19 @@ Step-by-step [instructions](https://openjfx.io/openjfx-docs/) on how to install 
 
 ## Planned App's features list
 Basic Arithmetic Operaitons.
-Two views: 1) for the expression typed 2) for the answer.
-A History view for checking how much operations were done.
-A delete Button to delete just one button.
-A Clear Button to clear all the expression.
+* Two views/Screens: 
+          1. for the expression typed 
+          2. for the answer.
+* A History view for checking how much operations were done.
+* A delete Button to delete just one button.
+* A Clear Button to clear all the expression.
+
+## List of completed features
+
+
+
+## List of features yet to implement
+
  ## ScreenShots
  ![](img/Screenshot%20from%202020-12-26%2006-08-06.png)
  ![](img/Screenshot%20from%202020-12-26%2006-08-14.png)
@@ -26,3 +35,4 @@ A Clear Button to clear all the expression.
  ![](img/Screenshot%20from%202020-12-26%2006-08-19.png)
  
  
+
