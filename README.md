@@ -9,7 +9,8 @@
 Step-by-step [instructions](https://openjfx.io/openjfx-docs/) on how to install and run JavaFX applications.
 
 
-=> --module-path ${PATH_TO_JAVAFX} --add-modules javafx.controls,javafx.fxml
+=>Add to VM option in intelliJ. --module-path ${PATH_TO_JAVAFX} --add-modules javafx.controls,javafx.fxml
+#### for more details on making a Javafx project in IntelliJ click [here](https://www.jetbrains.com/help/idea/javafx.html#vm-options)
  
  ## ScreenShots
  ![](img/Screenshot%20from%202020-12-26%2006-08-06.png)
