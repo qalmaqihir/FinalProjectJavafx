@@ -1,1 +1,2 @@
-# FinalProject for Jvafx
+# FinalProject for Javafx
+###### Jawad Haider
