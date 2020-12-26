@@ -14,7 +14,7 @@ Step-by-step [instructions](https://openjfx.io/openjfx-docs/) on how to install 
  ## ScreenShots
  ![](img/Screenshot%20from%202020-12-26%2006-08-06.png)
  ![](img/Screenshot%20from%202020-12-26%2006-08-14.png)
- ![](img/)
- ![](img/)
+ ![](img/Screenshot%20from%202020-12-26%2006-08-15.png)
+ ![](img/Screenshot%20from%202020-12-26%2006-08-19.png)
  
  
